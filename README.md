@@ -2,7 +2,7 @@
   - [TinderLive](https://engine-clone.web.app/)  
        
 # `SNEAKY PEAK`
-  - ![Tinder Snekay Peak](https://github.com/Kabi4/TinderTheSwipeApp/blob/main/SneakyPeak.png)   
+  - ![Tinder Snekay Peak](https://github.com/Kabi4/Google-Engine-Copied/blob/main/SneakyPeak.png)   
   
 # `BUILD INFO`
 # Getting Started with Create React App
