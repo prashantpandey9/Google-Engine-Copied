@@ -1,0 +1,26 @@
+.searchResultsOptions{
+    display: flex;
+    align-items: center;
+    color: gray;
+    margin-top: 1.5rem;
+}
+
+.searchResultsOptions__Left,.searchResultsOptions__right{
+    display: flex;
+    align-items: center;
+}
+
+.searchResultsOptions__Left__option,.searchResultsOptions__right__option{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.searchResultsOptions__right{
+    margin-left: 10rem;
+}
+
+.searchResultsOptions a{
+    text-decoration: none;
+    color: gray;
+}

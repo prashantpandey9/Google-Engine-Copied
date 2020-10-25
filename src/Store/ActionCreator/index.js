@@ -1,0 +1,3 @@
+export {
+    setTerm
+} from './Search';
